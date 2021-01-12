@@ -1,0 +1,16 @@
+.App {
+  background: #fcdab7;
+  background-size: cover;
+  height: 100vh;
+
+  &__head {
+    margin-left: 5%;
+    padding: 2vh;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #1e5f74;
+    font-size: 3vh;
+  }
+  &__content {
+    padding: 30px 300px;
+  }
+}
